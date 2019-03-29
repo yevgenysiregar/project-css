@@ -16,6 +16,7 @@
   display: flex;
   justify-content: space-between;
   align-content: flex-start;
+  margin: 25px 0;
 }
 
 .button.olive {
@@ -38,11 +39,14 @@
   background: #f57e10;
 }
 
+.content {
+  margin: 50px 0;
+}
+
 .content-home-image {
   display: flex;
   margin: 25px 0;
   border: 0;
-  width: 100px;
   align-content: center;
 }
 
@@ -50,4 +54,13 @@
   display: flex;
   justify-content: flex-end;
   flex-direction: column;
+}
+
+.footer {
+  margin: 25px 0;
+}
+
+.footer-text {
+  display: flex;
+  justify-content: flex-end;
 }
