@@ -1,0 +1,16 @@
+.button {
+  color: black;
+  border-radius: 20px;
+  border: 0;
+  font-size: 20px;
+  height: 100px;
+  width: 100px;
+}
+
+.button.olive {
+  background: #6f6823;
+}
+
+.button.green {
+  background: #4cc239;
+}
