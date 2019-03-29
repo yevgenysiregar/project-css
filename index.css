@@ -7,10 +7,47 @@
   width: 100px;
 }
 
+.container {
+  margin: 0;
+  background-image: url("images/background-home.jpg");
+}
+
+.page-buttons {
+  display: flex;
+  justify-content: space-between;
+  align-content: flex-start;
+}
+
 .button.olive {
   background: #6f6823;
+}
+.button-text-about {
+  display: flex;
+  align-items: center;
 }
 
 .button.green {
   background: #4cc239;
+}
+
+.button.blue {
+  background: #1c2fd7;
+}
+
+.button.orange {
+  background: #f57e10;
+}
+
+.content-home-image {
+  display: flex;
+  margin: 25px 0;
+  border: 0;
+  width: 100px;
+  align-content: center;
+}
+
+.description {
+  display: flex;
+  justify-content: flex-end;
+  flex-direction: column;
 }
