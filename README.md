@@ -1,3 +1,3 @@
 # Project CSS
 
-This is my CSS project
+This is my CSS project.
